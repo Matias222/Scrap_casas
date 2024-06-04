@@ -1,0 +1,5 @@
+.venv
+venv
+proxy_credenciales.py
+credentials.json
+token.json
